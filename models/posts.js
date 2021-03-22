@@ -1,10 +1,6 @@
 export default{
     posts: [
-        {
-        id: "dsfsdf",
-        title: "Test1",
-        description: "Test1's description"
-    },
+
     ],
 
     getAll(){
